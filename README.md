@@ -7,7 +7,7 @@
 - 🎓 Undergraduate student in *Information Technology* at Yogyakarta State University  
 - 🌱 Currently learning *Laravel, TailwindCSS, and Data Science*  
 - 💡 Interested in *Web Development, Machine Learning, and UI/UX*  
-- 📫 How to reach me: *[email@example.com](mailto:email@example.com)*  
+- 📫 How to reach me: *[innaputrimeida@gmail.com](mailto:innaputrimeida@gmail.com)*  
 
 ---
 
@@ -16,10 +16,10 @@
   <a href="https://www.linkedin.com/in/innaputri29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/innaputri29" target="_blank">
+  <a href="https://www.instagram.com/inna.ptr/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:email@example.com" target="_blank">
+  <a href="mailto:innaputrimeida@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
